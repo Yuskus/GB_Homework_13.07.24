@@ -3,7 +3,6 @@ using System.Xml.Serialization;
 
 namespace HomeworkGB8
 {
-    [XmlRoot]
     public class Person
     {
         public string? FirstName { get; set; }
